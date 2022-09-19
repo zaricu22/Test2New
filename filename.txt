@@ -3,5 +3,4 @@ mmm
 nnn
 nnn
 jjj
-ggg
 fff
